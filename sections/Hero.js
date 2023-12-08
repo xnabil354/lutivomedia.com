@@ -12,7 +12,7 @@ const Hero = () => {
     <>
       <section className='hero'>
         <div className='container'>
-          <TitleLogo title='Lutivo' caption='X' className='logobg' />
+          <TitleLogo title='Media' caption='Lutivo' className='logobg' />
           <h1 className='hero-title'>BRING YOUR BUSSINESS TO THE TOP OF THE TECH</h1>
 
           <div className='sub-heading'>
